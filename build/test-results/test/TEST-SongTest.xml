@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SongTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-12-11T14:45:54" hostname="EB-CZC7307B8W" time="0.045">
+  <properties/>
+  <testcase name="testSongSingNotNull" classname="SongTest" time="0.041"/>
+  <testcase name="testFirstStanzaThirdVerse" classname="SongTest" time="0.0"/>
+  <testcase name="testSecondStanzafourthVerse" classname="SongTest" time="0.0"/>
+  <testcase name="testFirstStanzaFirstVerse" classname="SongTest" time="0.0"/>
+  <testcase name="testFirstStanzaForThreeVarses" classname="SongTest" time="0.003"/>
+  <testcase name="testSingingHasTwelveStanzas" classname="SongTest" time="0.0"/>
+  <testcase name="testSongInstantiation" classname="SongTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
